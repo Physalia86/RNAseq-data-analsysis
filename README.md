@@ -1,5 +1,8 @@
 # RNAseq-data-analsysis
 Course: ANALYSIS OF RNA SEQUENCING DATA WITH R/BIOCONDUCTOR
+
+
+
 Dates
 November 7-18, 2022
 Due to the COVID-19 outbreak, this course will be held online
